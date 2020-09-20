@@ -1,1 +1,4 @@
-
+This is the detailed description of Alexnet.
+A project used to classify dogs using Alexnet Keras library.
+The project has been done in kaggle
+The dataset can be found in kaggle dogs classifiers.
