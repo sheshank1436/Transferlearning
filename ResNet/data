@@ -1,1 +1,7 @@
+This is a project on classifying the Traffic symbols.
+We have used Resnet in this project.
+The dataset has been taken from kaggle.
+we have two python files:
+   - 1 for training and test the model with the given dataset and saIving the trained model in .h5 file.
+   - 2 use the saved model to predict the new data which is not present in train of test data.
 
