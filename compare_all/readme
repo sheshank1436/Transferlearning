@@ -1,1 +1,6 @@
 
+AlexNet and ResNet-152, both have about 60M parameters but there is about a 10% difference in their top-5 accuracy.
+But training a ResNet-152 requires a lot of computations (about 10 times more than that of AlexNet) which means more training time and energy required.
+VGGNet not only has a higher number of parameters and FLOP as compared to ResNet-152 but also has a decreased accuracy.
+It takes more time to train a VGGNet with reduced accuracy.
+Training an AlexNet takes about the same time as training Inception. The memory requirements are 10 times less with improved accuracy (about 9%)
